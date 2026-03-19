@@ -1,6 +1,8 @@
 public class Test {
     public static void main(String[] args) {
-        System.out.println("Hello, World!");
+      double a=9;
+      int b=9;
+        System.out.println(a+b);
     }
     
-}//one more try
+}

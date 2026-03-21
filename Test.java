@@ -5,4 +5,4 @@ public class Test {
         System.out.println(a+b);
     }
     
-}//test3
+}//day2 until i find the way to deomonstrate all these partly.

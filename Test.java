@@ -1,8 +1,7 @@
 public class Test {
     public static void main(String[] args) {
-      double a=9;
-      int b=9;
-        System.out.println(a+b);
+      int i=0;
+
     }
     
-}//day2 until i find the way to deomonstrate all these partly.
+}//I do this for my github.

@@ -1,8 +1,8 @@
+import java.util.Scanner;
+
 public class Test {
     public static void main(String[] args) {
-      int i=0;
-
-    }
+      Scanner sc=new Scanner(System.in);
+      
     
-}//I do this for my github.
-//one more test.
+}

@@ -7,7 +7,7 @@ public class logging_system {
       System.out.println("用户注册系统");
       System.out.println("\n");
       System.out.println("请输入用户名：");
-       String name = input.next();
+        String name = input.next();
         System.out.println("请输入密码：");
         String password = input.next();
         System.out.println("注册成功！");
@@ -21,6 +21,7 @@ System.out.println("请输入用户名：");
             System.out.println("用户名或密码错误！");
         }
    }
-      
     
-}//this is the beginning of the system....
+    
+}//finally,I have completed the logging system. this is a simple one 
+//maybe I will add more features to it in the future.

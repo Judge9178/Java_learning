@@ -24,4 +24,4 @@ System.out.println("请输入用户名：");
     
     
 }//finally,I have completed the logging system. this is a simple one 
-//maybe I will add more features to it in the future.
+//maybe I will add more features to it in the future..

@@ -6,4 +6,4 @@ public class RedPacket {
         
        
     }
-}
+}//I wish I could make a project that can send code to github automatically,

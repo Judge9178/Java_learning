@@ -1,10 +1,10 @@
 import java.util.*;
 
-public class RedPacket {
+public class test_project {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         
        
     }
 }//I wish I could make a project that can send code to github automatically,
-//ok
+//ok  why?

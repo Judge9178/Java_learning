@@ -8,7 +8,7 @@ public class test_project {
     }
 }//I wish I could make a project that can send code to github automatically,
 //ok  why?so HARD..1
-back
+//back
 // Auto updated at 2026-05-08 21:05:32
 
 // Auto updated at 2026-05-09 13:03:18
@@ -32,3 +32,5 @@ back
 // Auto updated at 2026-05-18 15:57:27
 
 // Auto updated at 2026-05-19 11:07:32
+//why pushing to github is so hard?I just want to push code to github without using git bash
+//I want to push code to github using java code, but I don't know how to do
